@@ -1,16 +1,16 @@
-# expense_tracker
+#Expense Tracker App(Flutter)
+A simple and clean Expense Tracker app built using Flutter ,with features like:
+-Add daily expenses
+-View total spending
+-Category-wise tracking
+-Local storage/Firebase-ready structure
 
-A new Flutter project.
+##Tech Stack
+-Flutter(Dart)
+-Material Design
+-Provider(orRiverpod)-State Management
+-Firebase-ready structure
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
